@@ -3,6 +3,8 @@ A Python script to extract result from some data from the CBSE result website (e
 
 
 This script is crafted for educational purposes, aiming to demonstrate and explore systematic approaches to data verification processes.
+
+This script extracts information from the CBSE website with just a few information
  
 My friend told me to work on this idea so here I am.
 
@@ -20,7 +22,8 @@ Results are auto-saved to a text file.
 
 # 🛠️ Installation & Usage
 
-- Go to the "Packages" page and download the files
+- Go to the "Releases" page and download the files
+- Extract the files
 - Double click on "run.bat"
 
 # ⚠️ Disclaimer
