@@ -4,7 +4,7 @@ A Python script to extract result from some data from the CBSE result website (e
 
 This script is crafted for educational purposes, aiming to demonstrate and explore systematic approaches to data verification processes.
 
-This script extracts information from the CBSE website with just a few information
+This script extracts information from the CBSE website with just a few sets of information (roll no, dob etc) and random generates others
  
 My friend told me to work on this idea so here I am.
 
