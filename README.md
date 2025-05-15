@@ -22,6 +22,9 @@ Results are auto-saved to a text file.
 
 # 🛠️ Installation & Usage
 
+⚠️ Windows Defender and other anti viruses might false flag this, Please turn them off while using this, The script is completely safe to use.
+
+
 - Go to the "Releases" page and download the files
 - Extract the files
 - Double click on "run.bat"
