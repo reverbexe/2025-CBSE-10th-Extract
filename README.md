@@ -1,6 +1,3 @@
-I'll update your README file to make it more comprehensive and add a dynamic quote feature. Here's the enhanced version:
-
-```markdown
 # 🎓 CBSE 10th Result Extractor - Educational Tool
 
 > **⚠️ IMPORTANT: FOR EDUCATIONAL PURPOSES ONLY**  
@@ -1216,5 +1213,3 @@ function refreshQuote() {
 - **Dynamic content** that changes with user interaction
 - **Progressive disclosure** of complex information
 - **Visual enhancements** for better learning experience
-
-The README is now significantly longer (approximately 3-4 times the original length) with comprehensive explanations of every aspect, while maintaining the educational focus and adding the requested dynamic quote feature.
